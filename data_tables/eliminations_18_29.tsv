@@ -1,0 +1,104 @@
+season	episode_in_season	elim_id	elim_name	gender_elim	format
+18	1	el1801	Shoots and Ladders	mixed	individual
+18	2	el1802	Shadowfighter	mixed	individual
+18	3	el1803	Burnout	mixed	individual
+18	4	el1804	Oh-Ring	mixed	individual
+18	5	el1805	Spool	mixed	individual
+18	6	el1806	Hog Tie	mixed	individual
+18	7	el1807	Crunch	mixed	individual
+18	8	el1808	Rag Doll	mixed	individual
+18	9	el1809	Muay Thai	mixed	individual
+20	1	el2001	Handcuffs	mixed	individual
+20	2	el2002	Back Up Off Me	mixed	individual
+20	3	el2003	Die Hard	mixed	individual
+20	4	el2004	Swat	mixed	individual
+20	5	el2005	Pole Me Over	mixed	individual
+20	6	el2006	Handcuffs	mixed	individual
+20	7	el2007	Die Hard	mixed	individual
+20	8	el2008	Back Up Off Me	mixed	individual
+20	9	el2009	Pole Me Over	mixed	individual
+21	1	el2101	Hands On	female	pair
+21	2	el2102	Blast Off	male	pair
+21	3	el2103	Door Jam	female	pair
+21	4	el2104	Going Up	male	pair
+21	5	el2105	Unburied	female	pair
+21	6	el2106	Rail Slide	male	pair
+21	7	el2107	Blast Off	female	pair
+21	8	el2108	T-Bone	male	pair
+21	1	el2201	X Knocks the Spot	mixed	pair
+21	2	el2202	X Battle	mixed	pair
+21	3	el2203	Banded Together	mixed	pair
+21	4	el2204	X Knocks the Spot	mixed	pair
+21	5	el2205	X Battle	mixed	pair
+22	6	el2206	Banded Together	mixed	pair
+22	7	el2207	Hall Pass	mixed	pair
+22	8	el2208	X Battle	mixed	pair
+23	1	el2301	Hall Brawl	mixed	pair
+23	2	el2302	Balls Out	mixed	pair
+23	3	el2303	Knot So Fast	mixed	pair
+23	4	el2304	Water Torture	mixed	pair
+23	5	el2305	Balls Out	mixed	pair
+23	6	el2306	Knot So Fast	mixed	pair
+23	7	el2307	Water Torture	mixed	pair
+23	8	el2308	Hall Brawl	mixed	pair
+23	9	el2309	Balls Out	mixed	pair
+23	10	el2310	Water Torture	mixed	pair
+23	11	el2311	Knot So Fast	mixed	pair
+24	1	el2401	Last Chance	male	pair
+24	2	el2402	Hanging by a Thread	female	pair
+24	3	el2403	Snapper	male	pair
+24	4	el2404	Who Can Take It?	female	pair
+24	5	el2405	Breaking on Through	male	pair
+24	6	el2406	Catch-22	female	pair
+24	7	el2407	Last Chance	male	pair
+24	8	el2408	Snapper	female	pair
+24	9	el2409	Breaking on Through	male	pair
+24	10	el2410	Hanging by a Thread	female	pair
+25	1	el2501	Balls In	both	individual
+25	2	el2502	Wrecking Ball	both	individual
+25	3	el2503	Looper	both	individual
+25	4	el2504	Oppenheimer	both	individual
+25	5	el2505	Balls In	both	individual
+25	6	el2506	Looper	both	individual
+25	7	el2507	Wrecking Ball	both	individual
+25	8	el2508	Oppenheimer	both	individual
+25	9	el2509	Balls In	both	individual
+25	10	el2510	Wrecking Ball	both	individual
+25	11	el2511	Puzzle Pyramid	both	individual
+26	1	el2601	Pole Position	mixed	pair
+26	2	el2602	Banded Together	mixed	pair
+26	3	el2603	He Said, She Said	mixed	pair
+26	4	el2604	Breaking Up	mixed	pair
+26	5	el2605	Strung Out	mixed	pair
+26	6	el2606	Stacking Up	mixed	pair
+26	7	el2607	Hooking Up	mixed	pair
+26	8	el2608	Hammer It Home	mixed	pair
+26	9	el2609	Hall Brawl	mixed	pair
+26	10	el2610	X-Battle	mixed	pair
+27	1	el2701	End of My Rope	female	individual
+27	2	el2702	Squaring Off	male	individual
+27	3	el2703	Door Slammer	female	individual
+27	4	el2704	My Way or the Highway	male	individual
+27	5	el2705	Ring My Bell	female	individual
+27	6	el2706	Home Wrecker	male	individual
+27	7	el2707	Spun Out	female	individual
+27	8	el2708	Hand it Over	male	individual
+27	9	el2709	Through Thick and Thin	mixed	pair
+27	10	el2710	Mine Not Yours	female	individual
+28	1	el2801	Back It Up	mixed	pair
+28	2	el2802	Weight For Me	mixed	pair
+28	3	el2803	Chill Out	mixed	pair
+28	4	el2804	Hear Me Out	mixed	pair
+28	5	el2805	Spun Out	mixed	pair
+28	6	el2806	Shattered Dreams	mixed	pair
+28	7	el2807	Tunnel Vison	mixed	pair
+28	8	el2808	Don't Wine For Me, Argentina	mixed	pair
+29	1	el2901	In the Trenches	mixed	individual
+29	2	el2902	Who's Got Balls?	mixed	individual
+29	3	el2903	Thai Rise	mixed	individual
+29	4	el2904	Tuk Tuk Bang Bang	mixed	individual
+29	5	el2905	Pole Wrestle	mixed	individual
+29	6	el2906	Bell Ringer	mixed	individual
+29	7	el2907	Balls In	mixed	individual
+29	8	el2908	Inside Out	mixed	individual
+29	9	el2909	Knot So Fast	mixed	individual
