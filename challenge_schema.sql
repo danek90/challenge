@@ -1,22 +1,21 @@
 -- seasons X
-DROP TABLE IF exists season CASCADE;
-CREATE TABLE season (
+DROP TABLE IF exists seasons CASCADE;
+CREATE TABLE seasons (
 "season_id" INT NOT NULL UNIQUE
 , "season_name" VARCHAR(256) NOT NULL UNIQUE
-, "elim_theme" VARCHAR(256)
 , PRIMARY KEY ("season_id")
 );
 
 -- dailies X
-DROP TABLE IF exists daily CASCADE;
-CREATE TABLE daily (
+DROP TABLE IF exists dailies CASCADE;
+CREATE TABLE dailies (
 "daily_id" INT NOT NULL UNIQUE
 , "season_id" INT NOT NULL
 , "daily_in_season" INT NOT NULL
 , "daily_name" VARCHAR(256) NOT NULL
-, "team_type" VARCHAR(256) NOT NULL
+, "team_format" VARCHAR(256) NOT NULL
 , PRIMARY KEY ("daily_id")
-, FOREIGN KEY ("season_id") REFERENCES season("season_id")
+, FOREIGN KEY ("season_id") REFERENCES seasons("season_id")
 );
 
 -- eliminations X
@@ -29,7 +28,7 @@ CREATE TABLE eliminations (
 , "team_format" VARCHAR(256) NOT NULL
 , "gender_format" VARCHAR(256) NOT NULL
 , PRIMARY KEY ("elim_id")
-, FOREIGN KEY ("season_id") REFERENCES season("season_id")
+, FOREIGN KEY ("season_id") REFERENCES seasons("season_id")
 );
 
 -- finals X
@@ -40,13 +39,13 @@ CREATE TABLE finals (
 , "final_name" VARCHAR(256) NOT NULL
 , "checkpoints" VARCHAR(256) NOT NULL
 , PRIMARY KEY ("final_id")
-, FOREIGN KEY ("season_id") REFERENCES season("season_id")
+, FOREIGN KEY ("season_id") REFERENCES seasons("season_id")
 );
 
 
 -- challengers X
-DROP TABLE IF exists challenger CASCADE;
-CREATE TABLE challenger (
+DROP TABLE IF exists challengers CASCADE;
+CREATE TABLE challengers (
 "ch_id" INT NOT NULL UNIQUE
 , "ch_name" VARCHAR(256) NOT NULL
 , "legal_name" VARCHAR(256) NOT NULL
@@ -60,14 +59,15 @@ CREATE TABLE challenger (
 );
 
 -- team_ch X
-DROP TABLE IF exists team_ch CASCADE;
-CREATE TABLE team_ch (
+DROP TABLE IF exists teams_challengers CASCADE;
+CREATE TABLE teams_challengers (
 "team_ch_index" INT NOT NULL UNIQUE
+, "season_id" INT NOT NULL
 , "team_id" INT NOT NULL
 , "team_name" VARCHAR(256) NOT NULL
 , "ch_id" INT NOT NULL
 , "ch_name" VARCHAR(256) NOT NULL
 , PRIMARY KEY ("team_ch_index")
-, FOREIGN KEY ("team_id") REFERENCES team("team_id")
-, FOREIGN KEY ("ch_id") REFERENCES challenger("ch_id")
+, FOREIGN KEY ("ch_id") REFERENCES challengers("ch_id")
+, FOREIGN KEY ("season_id") REFERENCES seasons("ch_id")
 );
