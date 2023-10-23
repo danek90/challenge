@@ -5,17 +5,12 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
-# DATABASE = os.getenv("PGDATABASE")
-# HOST = os.getenv("PGHOST")
-# PASSWORD = os.getenv("PGPASSWORD")
-# PORT = os.getenv("PGPORT")
-# USER = os.getenv("PGUSER")
+DATABASE = os.getenv("PGDATABASE")
+HOST = os.getenv("PGHOST")
+PASSWORD = os.getenv("PGPASSWORD")
+PORT = os.getenv("PGPORT")
+USER = os.getenv("PGUSER")
 
-DATABASE = "railway"
-HOST = "containers-us-west-186.railway.app"
-PASSWORD = "Qb5xUEPFpuKCRfS6zKAe"
-PORT = "6105"
-USER = "postgres"
 
 def db_connect(stm):
     with psycopg2.connect(database = DATABASE, user = USER, 

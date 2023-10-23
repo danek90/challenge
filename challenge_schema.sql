@@ -100,12 +100,12 @@ CREATE TABLE elim_history (
 "elim_id" VARCHAR(256) NOT NULL
 , "team_id" VARCHAR(256) NOT NULL
 , "ch_id" INT NOT NULL
-, "daily_team_result" VARCHAR(256) NOT NULL
-, "within_team_result" VARCHAR(256)
+, "elim_result" VARCHAR(256) NOT NULL
+, "elim_heat" INT NOT NULL
+, "method_id" INT NOT NULL
 , PRIMARY KEY ("elim_id", "team_id", "ch_id")
 , FOREIGN KEY ("ch_id") REFERENCES challengers("ch_id")
 , FOREIGN KEY ("team_id") REFERENCES teams("team_id")
-, FOREIGN KEY ("daily_id") REFERENCES dailies("daily_id")
 );
 
 method_id	method_description	method_class_id	method_class	vote_type	sent to elim	voting_group	selection_group
