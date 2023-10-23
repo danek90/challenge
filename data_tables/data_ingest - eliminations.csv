@@ -1,0 +1,104 @@
+elim_id,season_id,elim_in_season,elim_name,team_format,gender_format
+el1801,18,1,Shoots and Ladders,individual,mixed
+el1802,18,2,Shadowfighter,individual,mixed
+el1803,18,3,Burnout,individual,mixed
+el1804,18,4,Oh-Ring,individual,mixed
+el1805,18,5,Spool,individual,mixed
+el1806,18,6,Hog Tie,individual,mixed
+el1807,18,7,Crunch,individual,mixed
+el1808,18,8,Rag Doll,individual,mixed
+el1809,18,9,Muay Thai,individual,mixed
+el2001,20,1,Handcuffs,individual,mixed
+el2002,20,2,Back Up Off Me,individual,mixed
+el2003,20,3,Die Hard,individual,mixed
+el2004,20,4,Swat,individual,mixed
+el2005,20,5,Pole Me Over,individual,mixed
+el2006,20,6,Handcuffs,individual,mixed
+el2007,20,7,Die Hard,individual,mixed
+el2008,20,8,Back Up Off Me,individual,mixed
+el2009,20,9,Pole Me Over,individual,mixed
+el2101,21,1,Hands On,pair,female
+el2102,21,2,Blast Off,pair,male
+el2103,21,3,Door Jam,pair,female
+el2104,21,4,Going Up,pair,male
+el2105,21,5,Unburied,pair,female
+el2106,21,6,Rail Slide,pair,male
+el2107,21,7,Blast Off,pair,female
+el2108,21,8,T-Bone,pair,male
+el2201,21,1,X Knocks the Spot,pair,mixed
+el2202,21,2,X Battle,pair,mixed
+el2203,21,3,Banded Together,pair,mixed
+el2204,21,4,X Knocks the Spot,pair,mixed
+el2205,21,5,X Battle,pair,mixed
+el2206,22,6,Banded Together,pair,mixed
+el2207,22,7,Hall Pass,pair,mixed
+el2208,22,8,X Battle,pair,mixed
+el2301,23,1,Hall Brawl,pair,mixed
+el2302,23,2,Balls Out,pair,mixed
+el2303,23,3,Knot So Fast,pair,mixed
+el2304,23,4,Water Torture,pair,mixed
+el2305,23,5,Balls Out,pair,mixed
+el2306,23,6,Knot So Fast,pair,mixed
+el2307,23,7,Water Torture,pair,mixed
+el2308,23,8,Hall Brawl,pair,mixed
+el2309,23,9,Balls Out,pair,mixed
+el2310,23,10,Water Torture,pair,mixed
+el2311,23,11,Knot So Fast,pair,mixed
+el2401,24,1,Last Chance,pair,male
+el2402,24,2,Hanging by a Thread,pair,female
+el2403,24,3,Snapper,pair,male
+el2404,24,4,Who Can Take It?,pair,female
+el2405,24,5,Breaking on Through,pair,male
+el2406,24,6,Catch-22,pair,female
+el2407,24,7,Last Chance,pair,male
+el2408,24,8,Snapper,pair,female
+el2409,24,9,Breaking on Through,pair,male
+el2410,24,10,Hanging by a Thread,pair,female
+el2501,25,1,Balls In,individual,both
+el2502,25,2,Wrecking Ball,individual,both
+el2503,25,3,Looper,individual,both
+el2504,25,4,Oppenheimer,individual,both
+el2505,25,5,Balls In,individual,both
+el2506,25,6,Looper,individual,both
+el2507,25,7,Wrecking Ball,individual,both
+el2508,25,8,Oppenheimer,individual,both
+el2509,25,9,Balls In,individual,both
+el2510,25,10,Wrecking Ball,individual,both
+el2511,25,11,Puzzle Pyramid,individual,both
+el2601,26,1,Pole Position,pair,mixed
+el2602,26,2,Banded Together,pair,mixed
+el2603,26,3,"He Said, She Said",pair,mixed
+el2604,26,4,Breaking Up,pair,mixed
+el2605,26,5,Strung Out,pair,mixed
+el2606,26,6,Stacking Up,pair,mixed
+el2607,26,7,Hooking Up,pair,mixed
+el2608,26,8,Hammer It Home,pair,mixed
+el2609,26,9,Hall Brawl,pair,mixed
+el2610,26,10,X-Battle,pair,mixed
+el2701,27,1,End of My Rope,individual,female
+el2702,27,2,Squaring Off,individual,male
+el2703,27,3,Door Slammer,individual,female
+el2704,27,4,My Way or the Highway,individual,male
+el2705,27,5,Ring My Bell,individual,female
+el2706,27,6,Home Wrecker,individual,male
+el2707,27,7,Spun Out,individual,female
+el2708,27,8,Hand it Over,individual,male
+el2709,27,9,Through Thick and Thin,pair,mixed
+el2710,27,10,Mine Not Yours,individual,female
+el2801,28,1,Back It Up,pair,mixed
+el2802,28,2,Weight For Me,pair,mixed
+el2803,28,3,Chill Out,pair,mixed
+el2804,28,4,Hear Me Out,pair,mixed
+el2805,28,5,Spun Out,pair,mixed
+el2806,28,6,Shattered Dreams,pair,mixed
+el2807,28,7,Tunnel Vison,pair,mixed
+el2808,28,8,"Don't Wine For Me, Argentina",pair,mixed
+el2901,29,1,In the Trenches,individual,mixed
+el2902,29,2,Who's Got Balls?,individual,mixed
+el2903,29,3,Thai Rise,individual,mixed
+el2904,29,4,Tuk Tuk Bang Bang,individual,mixed
+el2905,29,5,Pole Wrestle,individual,mixed
+el2906,29,6,Bell Ringer,individual,mixed
+el2907,29,7,Balls In,individual,mixed
+el2908,29,8,Inside Out,individual,mixed
+el2909,29,9,Knot So Fast,individual,mixed

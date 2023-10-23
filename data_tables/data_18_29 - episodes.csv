@@ -1,0 +1,131 @@
+ep_id,season_id,ep_in_season,ep_name,air_date,us_viewers_mill
+231,18,1,"""Wes Side Story""","September 30, 2009",1.699
+232,18,2,"""The Booby Trap""","October 7, 2009",
+233,18,3,"""The Road to Ruins""","October 14, 2009",
+234,18,4,"""Girls Gone Wild""","October 21, 2009",
+235,18,5,"""Reversal of Fortune""","October 28, 2009",
+236,18,6,"""Ruining On Empty""","November 4, 2009",
+237,18,7,"""Silence of the Ruins""","November 11, 2009",
+238,18,8,"""Thai Me Up! Thai Me Down!""","November 18, 2009",
+239,18,9,"""Muay So-Called Ruins?""","December 2, 2009",
+240,18,10,"""Good Thai and Good Luck""","December 9, 2009",
+251,20,1,"""Czech Yourself Before You Wreck Yourself""","October 6, 2010",1.74
+252,20,2,"""Newbie Doobie Doo""","October 13, 2010",1.27
+253,20,3,"""Karma's a Bitch""","October 20, 2010",1.28
+254,20,4,"""Swat the Hell?""","October 27, 2010",1.44
+255,20,5,"""Couching Tyger, Hidden Danimal""","November 3, 2010",1.31
+256,20,6,"""Where The Red Team Blows""","November 10, 2010",1.47
+257,20,7,"""Hell Hath No Fury""","November 17, 2010",1.41
+258,20,8,"""Back With a Vengeance""","December 1, 2010",1.05
+259,20,9,"""Always a Bridesmaid...""","December 8, 2010",1.24
+260,20,10,"""Czechmate""","December 15, 2010",1.39
+261,21,1,"""Welcome to the Jungle""","June 22, 2011",1.88
+262,21,2,"""Through the Looking Glass""","June 29, 2011",1.36
+263,21,3,"""Underdog Day Afternoon""","July 6, 2011",1.66
+264,21,4,"""D-Day""","July 13, 2011",1.62
+265,21,5,"""Ill-Communication""","July 20, 2011",1.66
+266,21,6,"""Blowup""","July 27, 2011",1.99
+267,21,7,"""Blood on the Dance Floor""","August 3, 2011",1.59
+268,21,8,"""Cry For Me, Argentina""","August 10, 2011",2.06
+269,21,9,"""The Storm Before the Storm""","August 17, 2011",1.99
+270,21,10,"""At the End of the World""","August 24, 2011",2.37
+271,22,1,"""Love Is A Battlefield""","January 25, 2012",1.91
+272,22,2,"""What's Love Got to Do With It?""","February 1, 2012",2.29
+273,22,3,"""Where Did Our Love Go?""","February 8, 2012",1.91
+274,22,4,"""Love the Way You Lie""","February 15, 2012",1.94
+275,22,5,"""Crazy in Love""","February 22, 2012",1.99
+276,22,6,"""Tainted Love""","February 29, 2012",1.9
+277,22,7,"""Love and Marriage""","March 7, 2012",1.82
+278,22,8,"""On the Wings of Love""","March 14, 2012",1.81
+279,22,9,"""Will You Still Love Me Tomorrow?""","March 21, 2012",1.81
+280,22,10,"""I Will Always Love You""","March 28, 2012",1.99
+281,23,1,"""Tis the Season""","September 19, 2012",1.15
+282,23,2,"""The Perks of Being a Rookie""","September 26, 2012",1.23
+283,23,3,"""What Happens in Vegas...""","October 3, 2012",1.11
+284,23,4,"""The Dark Knight""","October 10, 2012",1.06
+285,23,5,"""N-A-R-C-I-S-S-I-S-T-I-C""","October 17, 2012",0.91
+286,23,6,"""Going Insane""","October 24, 2012",1.16
+287,23,7,"""I Do Not Like You Sam I Am""","November 7, 2012",1.1
+288,23,8,"""Honey, I'm Homeless""","November 14, 2012",1.07
+289,23,9,"""The Chronicles of Nanyia""","November 28, 2012",1.34
+290,23,10,"""A Woman Scorned""","December 5, 2012",0.98
+291,23,11,"""I Like to Move it, Move it""","December 12, 2012",0.96
+292,23,12,"""Operation Desert Scorn""","December 19, 2012",1.01
+293,24,1,"""Rumble in the Jungle""","July 10, 2013",1.57
+294,24,2,"""New Girl""","July 17, 2013",1.4
+295,24,3,"""The Dark Knight Rises""","July 24, 2013",1.61
+296,24,4,"""Mortuusequusphobia""","July 31, 2013",1.78
+297,24,5,"""What The Phuket?!""","August 7, 2013",1.48
+298,24,6,"""Revenge Is a Dish Best Not Serve""","August 14, 2013",1.34
+299,24,7,"""Crossing Jordan""","August 21, 2013",1.34
+300,24,8,"""Thrilla in Camila""","August 28, 2013",1.36
+301,24,9,"""Diemnesia""","September 4, 2013",1.54
+302,24,10,"""True Colors""","September 11, 2013",1.34
+303,24,11,"""Final Destination""","September 18, 2013",1.27
+304,24,12,"""The Island of Misfit Challengers""","September 25, 2013",1.61
+305,25,1,"""Live Free or Die""","April 10, 2014",0.95
+306,25,2,"""Love in the Fast Lane""","April 17, 2014",0.92
+307,25,3,"""You Be Illin'""","April 24, 2014",0.93
+308,25,4,"""Inadequate""","May 1, 2014",1.11
+309,25,5,"""Stripes""","May 8, 2014",0.97
+310,25,6,"""Not So Trivial Pursuits""","May 15, 2014",1.07
+311,25,7,"""Pride Before The Wall""","May 22, 2014",1.14
+312,25,8,"""Strike a Pose, There's Something to It""","May 29, 2014",1.08
+313,25,9,"""Best Friends for Never""","June 5, 2014",1.06
+314,25,10,"""Talk to the Hand""","June 12, 2014",1.14
+315,25,11,"""The $350,000 Pyramid""","June 19, 2014",1.01
+316,25,12,"""A Walk in the Clouds""","June 26, 2014",1.15
+317,26,1,"""Where Is The Love?""","January 6, 2015",0.78
+318,26,2,"""I Will Always Hate You""","January 13, 2015",0.91
+319,26,3,"""Love Sick""","January 20, 2015",0.84
+320,26,4,"""Crazy Stupid Love""","January 27, 2015",1.01
+321,26,5,"""Love, Sweat, and Tears""","February 3, 2015",0.99
+322,26,6,"""Love Hurts""","February 10, 2015",0.75
+323,26,7,"""That's the Way Love Goes""","February 17, 2015",0.83
+324,26,8,"""You've Lost That Loving Feeling""","February 24, 2015",0.76
+325,26,9,"""Total Eclipse Of The Heart""","March 3, 2015",0.83
+326,26,10,"""Lovers In The Dark""","March 10, 2015",1.03
+327,26,11,"""Bye Bye Love""","March 17, 2015",1.01
+328,26,12,"""The Greatest Love of All""","March 24, 2015",1.03
+329,27,1,"""There Will Be Blood""","December 2, 2015",0.55
+330,27,2,"""Bad Blood""","December 9, 2015",0.56
+331,27,3,"""Camilanator: Judgement Day""","December 16, 2015",0.68
+332,27,4,"""Corneesa""","December 23, 2015",0.69
+333,27,5,"""A House Divided""","December 30, 2015",0.84
+334,27,6,"""Dirty Little Secret""","December 30, 2015",0.79
+335,27,7,"""Blood Brothers""","January 6, 2016",0.76
+336,27,8,"""Blood Is Thicker Than Mud""","January 13, 2016",0.88
+337,27,9,"""Blood Versus Love""","January 20, 2016",0.93
+338,27,10,"""Out For Blood""","January 27, 2016",0.72
+339,27,11,"""Tear Down This Wall""","February 3, 2016",0.79
+340,27,12,"""True Blood""","February 10, 2016",0.73
+341,27,13,"""Family Matters""","February 17, 2016",0.88
+343,28,1,"""Mexican Standoff""","May 4, 2016",0.66
+344,28,2,"""The Curse of the Black Skull""","May 11, 2016",0.7
+345,28,3,"""The Replacements""","May 18, 2016",0.73
+346,28,4,"""I'm Going Home""","May 25, 2016",0.84
+347,28,5,"""Where The Ratchet Things Are""","June 1, 2016",0.73
+348,28,6,"""The Naked Truth""","June 8, 2016",0.74
+349,28,7,"""Camilanator: Salvation""","June 15, 2016",0.78
+350,28,8,"""Stand By Me""","June 22, 2016",0.86
+351,28,9,"""Let Sleeping Dogs Wake""","June 29, 2016",0.84
+352,28,10,"""Digging Your Own Grave""","July 6, 2016",0.92
+353,28,11,"""Rivals: Civil War""","July 13, 2016",0.76
+354,28,12,"""Raging Bullies""","July 20, 2016",0.8
+355,28,13,"""Grapes. Wrath.""","July 27, 2016",0.68
+356,28,14,"""Split Decision""","August 3, 2016",0.72
+357,29,1,"""Gimmie Shelter""","February 7, 2017",0.69
+358,29,2,"""Skeletal Fracture""","February 7, 2017",0.65
+359,29,3,"""Helter Shelter""","February 14, 2017",0.65
+360,29,4,"""Four Tickets To Paradise""","February 21, 2017",0.76
+361,29,5,"""Underdog Eat Underdog World""","February 28, 2017",0.78
+362,29,6,"""The Mile-High Club""","March 7, 2017",0.8
+363,29,7,"""Achy Breaky Heart""","March 14, 2017",0.86
+364,29,8,"""A Low Down Dirty Shane""","March 21, 2017",0.81
+365,29,9,"""An Officer and a Gentlewoman""","March 28, 2017",0.82
+366,29,10,"""Go Your Own Way""","April 4, 2017",0.76
+367,29,11,"""The Bloodbath""","April 11, 2017",0.78
+368,29,12,"""Caged""","April 18, 2017",0.79
+369,29,13,"""A River of Endless Light""","April 25, 2017",0.76
+370,29,14,"""Math Is Hard""","May 2, 2017",0.78
+371,29,15,"""The True Champions""","May 9, 2017",0.73

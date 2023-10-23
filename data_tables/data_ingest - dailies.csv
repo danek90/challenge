@@ -1,0 +1,105 @@
+daily_id,season_id,daily_in_season,daily_name,team_format
+d1801,18,1,Chain Gang,team
+d1802,18,2,Swing On By,team
+d1803,18,3,Repo Race,team
+d1804,18,4,Burning Bridge,team
+d1805,18,5,Block Party,team
+d1806,18,6,Fruits of Your Labor,team
+d1807,18,7,Rotary Club,team
+d1808,18,8,On the Fence,team
+d1809,18,9,Wall Walker,team
+d2001,20,1,Gas Problems,team
+d2002,20,2,Brain Buster,team
+d2003,20,3,Bed Head,team
+d2004,20,4,Bottleneck Stampede,team
+d2005,20,5,Surf's Up,team
+d2006,20,6,Sky Hook,team
+d2007,20,7,Gimme a Hand,team
+d2008,20,8,High Ball,team
+d2009,20,9,Riot Act,team
+d2101,21,1,High Dive,pair
+d2102,21,2,Car Crusher,pair
+d2103,21,3,Sync or Swim,pair
+d2104,21,4,Hammock Crawl,pair
+d2105,21,5,Against the Current,pair
+d2106,21,6,Catch & Release,pair
+d2107,21,7,Sawed Off,pair
+d2108,21,8,Bombs Away,pair
+d2201,22,1,Give Me Some Honey,pair
+d2202,22,2,Hook Up,pair
+d2203,22,3,Mental Connection,pair
+d2204,22,4,Rolling in the Deep,pair
+d2205,22,5,Don't Rock the Boat,pair
+d2206,22,6,Lube Me Up,pair
+d2207,22,7,Race to the Altar,pair
+d2208,22,8,Feel the Burn,pair
+d2301,23,1,Don't Cross Me,team
+d2302,23,2,Oil Change,team
+d2303,23,3,"Hook, Line & Sinker",team
+d2304,23,4,Don't Weigh Me Down,team
+d2305,23,5,Chairman of the Board,team
+d2306,23,6,Insane Games,team
+d2307,23,7,Logged Out,team
+d2308,23,8,Hunger Games,team
+d2309,23,9,Abandon Ship,team
+d2310,23,10,Force Field,team
+d2311,23,11,Sling Shot,team
+d2401,24,1,Game of Inches,pair
+d2402,24,2,XXX Games,pair
+d2403,24,3,Mind Over Splatter,pair
+d2404,24,4,Stumped,pair
+d2405,24,5,Frog Smash,pair
+d2406,24,6,Frenemies,pair
+d2407,24,7,Blind Leading the Blind,pair
+d2408,24,8,Swingers,pair
+d2409,24,9,Rampage,pair
+d2410,24,10,Color Correction,pair
+d2501,25,1,Out on a Ledge,team
+d2502,25,2,Auto Body Rally,pair
+d2503,25,3,Bar Crawl,team
+d2504,25,4,Bounce Out,team
+d2505,25,5,Piggy Back,team
+d2506,25,6,Smarty Pants,individual
+d2507,25,7,Sausage Party,individual
+d2508,25,8,Hold That Pose,team
+d2509,25,9,Dug Out,pair
+d2510,25,10,Crossover,pair
+d2601,26,1,I Got You Babe,pair
+d2602,26,2,Rounding the Bases,pair
+d2603,26,3,"On Again, Off Again",pair
+d2604,26,4,The Brush Off,pair
+d2605,26,5,Open Arms,pair
+d2606,26,6,Don't Forget About Me,pair
+d2607,26,7,Are You the One?,pair
+d2608,26,8,Speed Dating,pair
+d2609,26,9,Wrecking Ball,pair
+d2610,26,10,Don't Let Me Down,pair
+d2701,27,1,Water Battle,pair
+d2702,27,2,Family Dinner,pair
+d2703,27,3,Meet Me Halfway,team
+d2704,27,4,Heir To The Throne,team
+d2705,27,5,Family Connection,team
+d2706,27,6,Hand Me Down,team
+d2707,27,7,Too Clingy,team
+d2708,27,8,Air Pockets,team
+d2709,27,9,Weight For Me,pair
+d2710,27,10,Truck Crossing,pair
+d2801,28,1,Give Me Some Slack,pair
+d2802,28,2,Dirty Laundry,pair
+d2803,28,3,Out on a Limb,pair
+d2804,28,4,Laps of Judgement,pair
+d2805,28,5,Road to Nowhere,pair
+d2806,28,6,Up All Night,pair
+d2807,28,7,Take It to the Grave,pair
+d2808,28,8,Catch & Release,pair
+d2809,28,9,Bridging the Gap,pair
+d2901,29,1,The Over Under,individual
+d2902,29,2,Shell Shocked,pair
+d2903,29,3,Caged and Confused,individual
+d2904,29,4,Knockout,team
+d2905,29,5,Roll with the Punches,team
+d2906,29,6,Curry Up,team
+d2907,29,7,Fallout,team
+d2908,29,8,Crossover,team
+d2909,29,9,X-It,team
+d2910,29,10,Caved In,team
