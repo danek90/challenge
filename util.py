@@ -4,13 +4,15 @@ import pandas as pd
 import requests
 import re
 from bs4 import BeautifulSoup
+import streamlit as st
+import numpy as np
+import polars as pl
 
 DATABASE = os.getenv("PGDATABASE")
 HOST = os.getenv("PGHOST")
 PASSWORD = os.getenv("PGPASSWORD")
 PORT = os.getenv("PGPORT")
 USER = os.getenv("PGUSER")
-
 
 def db_connect(stm):
     with psycopg2.connect(database = DATABASE, user = USER, 
