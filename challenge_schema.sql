@@ -113,8 +113,6 @@ CREATE TABLE elim_history (
 , FOREIGN KEY ("team_id") REFERENCES teams("team_id")
 );
 
-method_id	method_description	method_class_id	method_class	vote_type	sent to elim	voting_group	selection_group
-
 DROP TABLE IF exists elim_method CASCADE;
 CREATE TABLE elim_method (
 "method_id" INT NOT NULL
@@ -127,8 +125,6 @@ CREATE TABLE elim_method (
 , "selection_group" VARCHAR(256)
 , PRIMARY KEY ("method_id")
 );
-
-
 
 -- daily_history
 DROP TABLE IF exists daily_history CASCADE;

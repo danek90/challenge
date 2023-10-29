@@ -1,9 +1,8 @@
-altair==5.0.1
-numpy==1.25.1
-pandas==2.0.3
-pydeck==0.8.0
-streamlit==1.25.0
-psycopg2
-bs4
-matplotlib
-matplotlib.pyplot
+beautifulsoup4==4.11.1
+matplotlib==3.5.2
+numpy==1.22.3
+pandas==1.4.2
+psycopg2==2.9.9
+psycopg2_binary==2.9.9
+Requests==2.31.0
+streamlit==1.28.0
