@@ -5,4 +5,5 @@ pydeck==0.8.0
 streamlit==1.25.0
 psycopg2
 bs4
-polars
+matplotlib
+matplotlib.pyplot
