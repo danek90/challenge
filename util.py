@@ -6,7 +6,6 @@ import re
 from bs4 import BeautifulSoup
 import streamlit as st
 import numpy as np
-import polars as pl
 
 DATABASE = os.getenv("PGDATABASE")
 HOST = os.getenv("PGHOST")
