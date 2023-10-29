@@ -17,7 +17,7 @@ USER = os.getenv("PGUSER")
 def db_connect(stm):
     with psycopg2.connect(database = DATABASE, user = USER, 
                         host= HOST, password = PASSWORD, port = PORT) as conn:
-        data = pd.read_sql_query(stm, conn)
+        data = pd.read_sql(stm, conn)
     return data
 
 def pull_image(ch_id):

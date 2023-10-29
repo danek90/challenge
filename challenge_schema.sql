@@ -100,11 +100,16 @@ CREATE TABLE elim_history (
 "elim_id" VARCHAR(256) NOT NULL
 , "team_id" VARCHAR(256) NOT NULL
 , "ch_id" INT NOT NULL
+, "elim_partner_id" INT
+, "opponent_id"	INT
+, "opponent_partner_id" INT
 , "elim_result" VARCHAR(256) NOT NULL
 , "elim_heat" INT NOT NULL
 , "method_id" INT NOT NULL
-, PRIMARY KEY ("elim_id", "team_id", "ch_id")
+, PRIMARY KEY ("elim_id", "team_id", "ch_id","opponent_id")
 , FOREIGN KEY ("ch_id") REFERENCES challengers("ch_id")
+, FOREIGN KEY ("opponent_id") REFERENCES challengers("ch_id")
+, FOREIGN KEY ("opponent_partner_id") REFERENCES challengers("ch_id")
 , FOREIGN KEY ("team_id") REFERENCES teams("team_id")
 );
 
